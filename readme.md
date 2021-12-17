@@ -12,7 +12,7 @@
 * generates non-iid dataloader for each client as `.pt` file. Loaded onto the `client` when initialized.
 * Latent Dirichlet Allocation sampling from `FedML` repo
 
-Run `python fedopt.py` in terminal to simulate FedAVG with N clients and 1 server for the mnist flattened dataset (or may try Iris).
+Run `python fedopt.py --epochs=2 --iterations=25 --world_size=5 --global_lr=0.01 --datapath=data/mnist_flat` in terminal to simulate FedAVG with 4 clients and 1 server for the mnist flattened dataset (or may try Iris).
 
 ## arguments for script
 ```optional arguments:
