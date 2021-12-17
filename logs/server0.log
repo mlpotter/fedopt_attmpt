@@ -1,766 +1,153 @@
-Initialize 4 Clients
-Initialize Server
-Send Global Weights to 4 Clients
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.593
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.788
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.849
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.837
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.843
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.874
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.893
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.909
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.918
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.920
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.918
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.918
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.921
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.924
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.929
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.933
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.936
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.938
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.939
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.938
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.940
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.941
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.940
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.939
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.938
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.941
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.944
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.944
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.943
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.940
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.936
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.937
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.941
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.947
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.949
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.947
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.942
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.942
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.947
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.951
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.955
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.949
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.944
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.942
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.942
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.945
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.949
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.949
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.949
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.949
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.955
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.955
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.949
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.953
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.955
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.955
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.951
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.958
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.959
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.959
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.949
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.948
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.945
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.948
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.950
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.953
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.951
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.949
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.951
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.953
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.955
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.955
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.952
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.954
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.956
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.957
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.959
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.959
-Initializing Trainig
-Get Clients Pseudo Gradients
-Get Clients Sample Numbers
-Send Global Weights to 4 Clients
-Initializing Evaluation
-Accuracy over all data: 0.959
-Initializing Trainig
+2021-12-17 12:40:25,448: Initialize 4 Clients
+2021-12-17 12:40:25,450: Initialize Server
+2021-12-17 12:40:25,450: Send Global Weights to 4 Clients
+2021-12-17 12:40:26,213: Initializing Training
+2021-12-17 12:41:18,581: Get Clients Pseudo Gradients
+2021-12-17 12:41:18,583: Get Clients Sample Numbers
+2021-12-17 12:41:18,597: Send Global Weights to 4 Clients
+2021-12-17 12:41:18,609: Initializing Evaluation
+2021-12-17 12:41:18,940: Accuracy over all data: 0.691
+2021-12-17 12:41:18,941: Initializing Training
+2021-12-17 12:41:25,802: Get Clients Pseudo Gradients
+2021-12-17 12:41:25,803: Get Clients Sample Numbers
+2021-12-17 12:41:25,811: Send Global Weights to 4 Clients
+2021-12-17 12:41:25,818: Initializing Evaluation
+2021-12-17 12:41:26,140: Accuracy over all data: 0.906
+2021-12-17 12:41:26,141: Initializing Training
+2021-12-17 12:41:33,231: Get Clients Pseudo Gradients
+2021-12-17 12:41:33,232: Get Clients Sample Numbers
+2021-12-17 12:41:33,242: Send Global Weights to 4 Clients
+2021-12-17 12:41:33,250: Initializing Evaluation
+2021-12-17 12:41:33,576: Accuracy over all data: 0.935
+2021-12-17 12:41:33,576: Initializing Training
+2021-12-17 12:41:39,629: Get Clients Pseudo Gradients
+2021-12-17 12:41:39,630: Get Clients Sample Numbers
+2021-12-17 12:41:39,636: Send Global Weights to 4 Clients
+2021-12-17 12:41:39,641: Initializing Evaluation
+2021-12-17 12:41:39,908: Accuracy over all data: 0.940
+2021-12-17 12:41:39,908: Initializing Training
+2021-12-17 12:41:46,223: Get Clients Pseudo Gradients
+2021-12-17 12:41:46,223: Get Clients Sample Numbers
+2021-12-17 12:41:46,232: Send Global Weights to 4 Clients
+2021-12-17 12:41:46,237: Initializing Evaluation
+2021-12-17 12:41:46,523: Accuracy over all data: 0.942
+2021-12-17 12:41:46,523: Initializing Training
+2021-12-17 12:41:52,965: Get Clients Pseudo Gradients
+2021-12-17 12:41:52,966: Get Clients Sample Numbers
+2021-12-17 12:41:52,974: Send Global Weights to 4 Clients
+2021-12-17 12:41:52,977: Initializing Evaluation
+2021-12-17 12:41:53,266: Accuracy over all data: 0.943
+2021-12-17 12:41:53,266: Initializing Training
+2021-12-17 12:41:59,487: Get Clients Pseudo Gradients
+2021-12-17 12:41:59,488: Get Clients Sample Numbers
+2021-12-17 12:41:59,496: Send Global Weights to 4 Clients
+2021-12-17 12:41:59,499: Initializing Evaluation
+2021-12-17 12:41:59,779: Accuracy over all data: 0.940
+2021-12-17 12:41:59,780: Initializing Training
+2021-12-17 12:42:05,845: Get Clients Pseudo Gradients
+2021-12-17 12:42:05,846: Get Clients Sample Numbers
+2021-12-17 12:42:05,854: Send Global Weights to 4 Clients
+2021-12-17 12:42:05,859: Initializing Evaluation
+2021-12-17 12:42:06,127: Accuracy over all data: 0.944
+2021-12-17 12:42:06,127: Initializing Training
+2021-12-17 12:42:12,268: Get Clients Pseudo Gradients
+2021-12-17 12:42:12,269: Get Clients Sample Numbers
+2021-12-17 12:42:12,277: Send Global Weights to 4 Clients
+2021-12-17 12:42:12,282: Initializing Evaluation
+2021-12-17 12:42:12,563: Accuracy over all data: 0.953
+2021-12-17 12:42:12,564: Initializing Training
+2021-12-17 12:42:19,280: Get Clients Pseudo Gradients
+2021-12-17 12:42:19,281: Get Clients Sample Numbers
+2021-12-17 12:42:19,288: Send Global Weights to 4 Clients
+2021-12-17 12:42:19,291: Initializing Evaluation
+2021-12-17 12:42:19,551: Accuracy over all data: 0.960
+2021-12-17 12:42:19,551: Initializing Training
+2021-12-17 12:42:25,754: Get Clients Pseudo Gradients
+2021-12-17 12:42:25,755: Get Clients Sample Numbers
+2021-12-17 12:42:25,762: Send Global Weights to 4 Clients
+2021-12-17 12:42:25,766: Initializing Evaluation
+2021-12-17 12:42:26,063: Accuracy over all data: 0.961
+2021-12-17 12:42:26,064: Initializing Training
+2021-12-17 12:42:32,332: Get Clients Pseudo Gradients
+2021-12-17 12:42:32,333: Get Clients Sample Numbers
+2021-12-17 12:42:32,343: Send Global Weights to 4 Clients
+2021-12-17 12:42:32,348: Initializing Evaluation
+2021-12-17 12:42:32,646: Accuracy over all data: 0.962
+2021-12-17 12:42:32,647: Initializing Training
+2021-12-17 12:42:38,912: Get Clients Pseudo Gradients
+2021-12-17 12:42:38,913: Get Clients Sample Numbers
+2021-12-17 12:42:38,920: Send Global Weights to 4 Clients
+2021-12-17 12:42:38,924: Initializing Evaluation
+2021-12-17 12:42:39,188: Accuracy over all data: 0.963
+2021-12-17 12:42:39,189: Initializing Training
+2021-12-17 12:42:45,469: Get Clients Pseudo Gradients
+2021-12-17 12:42:45,470: Get Clients Sample Numbers
+2021-12-17 12:42:45,477: Send Global Weights to 4 Clients
+2021-12-17 12:42:45,482: Initializing Evaluation
+2021-12-17 12:42:45,742: Accuracy over all data: 0.963
+2021-12-17 12:42:45,742: Initializing Training
+2021-12-17 12:42:51,972: Get Clients Pseudo Gradients
+2021-12-17 12:42:51,973: Get Clients Sample Numbers
+2021-12-17 12:42:51,980: Send Global Weights to 4 Clients
+2021-12-17 12:42:51,983: Initializing Evaluation
+2021-12-17 12:42:52,249: Accuracy over all data: 0.961
+2021-12-17 12:42:52,250: Initializing Training
+2021-12-17 12:42:58,661: Get Clients Pseudo Gradients
+2021-12-17 12:42:58,662: Get Clients Sample Numbers
+2021-12-17 12:42:58,673: Send Global Weights to 4 Clients
+2021-12-17 12:42:58,677: Initializing Evaluation
+2021-12-17 12:42:58,952: Accuracy over all data: 0.961
+2021-12-17 12:42:58,952: Initializing Training
+2021-12-17 12:43:05,851: Get Clients Pseudo Gradients
+2021-12-17 12:43:05,852: Get Clients Sample Numbers
+2021-12-17 12:43:05,863: Send Global Weights to 4 Clients
+2021-12-17 12:43:05,867: Initializing Evaluation
+2021-12-17 12:43:06,174: Accuracy over all data: 0.962
+2021-12-17 12:43:06,174: Initializing Training
+2021-12-17 12:43:13,066: Get Clients Pseudo Gradients
+2021-12-17 12:43:13,066: Get Clients Sample Numbers
+2021-12-17 12:43:13,073: Send Global Weights to 4 Clients
+2021-12-17 12:43:13,077: Initializing Evaluation
+2021-12-17 12:43:13,401: Accuracy over all data: 0.963
+2021-12-17 12:43:13,401: Initializing Training
+2021-12-17 12:43:20,528: Get Clients Pseudo Gradients
+2021-12-17 12:43:20,529: Get Clients Sample Numbers
+2021-12-17 12:43:20,537: Send Global Weights to 4 Clients
+2021-12-17 12:43:20,542: Initializing Evaluation
+2021-12-17 12:43:20,837: Accuracy over all data: 0.964
+2021-12-17 12:43:20,837: Initializing Training
+2021-12-17 12:43:27,863: Get Clients Pseudo Gradients
+2021-12-17 12:43:27,864: Get Clients Sample Numbers
+2021-12-17 12:43:27,869: Send Global Weights to 4 Clients
+2021-12-17 12:43:27,873: Initializing Evaluation
+2021-12-17 12:43:28,152: Accuracy over all data: 0.964
+2021-12-17 12:43:28,152: Initializing Training
+2021-12-17 12:43:34,768: Get Clients Pseudo Gradients
+2021-12-17 12:43:34,769: Get Clients Sample Numbers
+2021-12-17 12:43:34,776: Send Global Weights to 4 Clients
+2021-12-17 12:43:34,780: Initializing Evaluation
+2021-12-17 12:43:35,110: Accuracy over all data: 0.965
+2021-12-17 12:43:35,111: Initializing Training
+2021-12-17 12:43:41,837: Get Clients Pseudo Gradients
+2021-12-17 12:43:41,838: Get Clients Sample Numbers
+2021-12-17 12:43:41,846: Send Global Weights to 4 Clients
+2021-12-17 12:43:41,850: Initializing Evaluation
+2021-12-17 12:43:42,122: Accuracy over all data: 0.965
+2021-12-17 12:43:42,122: Initializing Training
+2021-12-17 12:43:48,370: Get Clients Pseudo Gradients
+2021-12-17 12:43:48,371: Get Clients Sample Numbers
+2021-12-17 12:43:48,379: Send Global Weights to 4 Clients
+2021-12-17 12:43:48,383: Initializing Evaluation
+2021-12-17 12:43:48,650: Accuracy over all data: 0.966
+2021-12-17 12:43:48,650: Initializing Training
+2021-12-17 12:43:54,885: Get Clients Pseudo Gradients
+2021-12-17 12:43:54,886: Get Clients Sample Numbers
+2021-12-17 12:43:54,893: Send Global Weights to 4 Clients
+2021-12-17 12:43:54,898: Initializing Evaluation
+2021-12-17 12:43:55,184: Accuracy over all data: 0.965
+2021-12-17 12:43:55,184: Initializing Training
+2021-12-17 12:44:02,076: Get Clients Pseudo Gradients
+2021-12-17 12:44:02,077: Get Clients Sample Numbers
+2021-12-17 12:44:02,085: Send Global Weights to 4 Clients
+2021-12-17 12:44:02,088: Initializing Evaluation
+2021-12-17 12:44:02,375: Accuracy over all data: 0.966

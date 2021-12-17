@@ -1,766 +1,154 @@
-Local Data Statistics:
-Dataset Size: 14213.00
-{2: 4397, 0: 2925, 6: 592, 1: 4316, 4: 1722, 5: 167, 3: 94}
-Loaded Global Model Weights
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.814
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.959
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.961
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.963
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.966
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.974
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.975
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.975
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.974
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.972
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.974
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.975
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.972
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.974
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.983
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.982
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.981
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.982
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.981
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.981
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.98
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.98
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.975
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.981
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.981
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.98
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.98
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.981
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.975
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.974
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.981
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.982
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.981
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.98
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.98
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.98
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.98
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.981
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.979
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.978
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.976
-Finished Training
-Calculated Pseudo Gradient
-Send Client Local Pseudo-Gradient
-Send Client Number of Training Instances
-Loaded Global Model Weights
-Client 3 Evaluating Data: 0.977
+2021-12-17 12:40:26,086: Local Data Statistics:
+2021-12-17 12:40:26,087: Dataset Size: 14386.00
+2021-12-17 12:40:26,088: {7: 5105, 2: 3864, 0: 1461, 1: 852, 3: 575, 9: 697, 4: 267, 5: 1550, 8: 15}
+2021-12-17 12:40:26,185: Loaded Global Model Weights
+2021-12-17 12:41:17,329: Finished Training
+2021-12-17 12:41:17,346: Calculated Pseudo Gradient
+2021-12-17 12:41:18,583: Send Client Local Pseudo-Gradient
+2021-12-17 12:41:18,584: Send Client Number of Training Instances
+2021-12-17 12:41:18,602: Loaded Global Model Weights
+2021-12-17 12:41:18,908: Client 3 Evaluating Data: 0.764
+2021-12-17 12:41:24,765: Finished Training
+2021-12-17 12:41:24,766: Calculated Pseudo Gradient
+2021-12-17 12:41:25,803: Send Client Local Pseudo-Gradient
+2021-12-17 12:41:25,805: Send Client Number of Training Instances
+2021-12-17 12:41:25,817: Loaded Global Model Weights
+2021-12-17 12:41:26,083: Client 3 Evaluating Data: 0.934
+2021-12-17 12:41:32,467: Finished Training
+2021-12-17 12:41:32,469: Calculated Pseudo Gradient
+2021-12-17 12:41:33,233: Send Client Local Pseudo-Gradient
+2021-12-17 12:41:33,234: Send Client Number of Training Instances
+2021-12-17 12:41:33,247: Loaded Global Model Weights
+2021-12-17 12:41:33,533: Client 3 Evaluating Data: 0.938
+2021-12-17 12:41:39,040: Finished Training
+2021-12-17 12:41:39,041: Calculated Pseudo Gradient
+2021-12-17 12:41:39,630: Send Client Local Pseudo-Gradient
+2021-12-17 12:41:39,631: Send Client Number of Training Instances
+2021-12-17 12:41:39,640: Loaded Global Model Weights
+2021-12-17 12:41:39,885: Client 3 Evaluating Data: 0.936
+2021-12-17 12:41:45,570: Finished Training
+2021-12-17 12:41:45,571: Calculated Pseudo Gradient
+2021-12-17 12:41:46,224: Send Client Local Pseudo-Gradient
+2021-12-17 12:41:46,225: Send Client Number of Training Instances
+2021-12-17 12:41:46,236: Loaded Global Model Weights
+2021-12-17 12:41:46,481: Client 3 Evaluating Data: 0.938
+2021-12-17 12:41:52,197: Finished Training
+2021-12-17 12:41:52,198: Calculated Pseudo Gradient
+2021-12-17 12:41:52,966: Send Client Local Pseudo-Gradient
+2021-12-17 12:41:52,968: Send Client Number of Training Instances
+2021-12-17 12:41:52,976: Loaded Global Model Weights
+2021-12-17 12:41:53,240: Client 3 Evaluating Data: 0.942
+2021-12-17 12:41:58,883: Finished Training
+2021-12-17 12:41:58,884: Calculated Pseudo Gradient
+2021-12-17 12:41:59,488: Send Client Local Pseudo-Gradient
+2021-12-17 12:41:59,489: Send Client Number of Training Instances
+2021-12-17 12:41:59,499: Loaded Global Model Weights
+2021-12-17 12:41:59,726: Client 3 Evaluating Data: 0.95
+2021-12-17 12:42:05,230: Finished Training
+2021-12-17 12:42:05,231: Calculated Pseudo Gradient
+2021-12-17 12:42:05,846: Send Client Local Pseudo-Gradient
+2021-12-17 12:42:05,847: Send Client Number of Training Instances
+2021-12-17 12:42:05,857: Loaded Global Model Weights
+2021-12-17 12:42:06,077: Client 3 Evaluating Data: 0.953
+2021-12-17 12:42:11,663: Finished Training
+2021-12-17 12:42:11,664: Calculated Pseudo Gradient
+2021-12-17 12:42:12,269: Send Client Local Pseudo-Gradient
+2021-12-17 12:42:12,270: Send Client Number of Training Instances
+2021-12-17 12:42:12,280: Loaded Global Model Weights
+2021-12-17 12:42:12,563: Client 3 Evaluating Data: 0.957
+2021-12-17 12:42:18,576: Finished Training
+2021-12-17 12:42:18,577: Calculated Pseudo Gradient
+2021-12-17 12:42:19,281: Send Client Local Pseudo-Gradient
+2021-12-17 12:42:19,282: Send Client Number of Training Instances
+2021-12-17 12:42:19,291: Loaded Global Model Weights
+2021-12-17 12:42:19,519: Client 3 Evaluating Data: 0.961
+2021-12-17 12:42:25,013: Finished Training
+2021-12-17 12:42:25,013: Calculated Pseudo Gradient
+2021-12-17 12:42:25,755: Send Client Local Pseudo-Gradient
+2021-12-17 12:42:25,757: Send Client Number of Training Instances
+2021-12-17 12:42:25,764: Loaded Global Model Weights
+2021-12-17 12:42:26,032: Client 3 Evaluating Data: 0.961
+2021-12-17 12:42:31,743: Finished Training
+2021-12-17 12:42:31,744: Calculated Pseudo Gradient
+2021-12-17 12:42:32,333: Send Client Local Pseudo-Gradient
+2021-12-17 12:42:32,334: Send Client Number of Training Instances
+2021-12-17 12:42:32,347: Loaded Global Model Weights
+2021-12-17 12:42:32,604: Client 3 Evaluating Data: 0.963
+2021-12-17 12:42:38,120: Finished Training
+2021-12-17 12:42:38,121: Calculated Pseudo Gradient
+2021-12-17 12:42:38,913: Send Client Local Pseudo-Gradient
+2021-12-17 12:42:38,914: Send Client Number of Training Instances
+2021-12-17 12:42:38,923: Loaded Global Model Weights
+2021-12-17 12:42:39,149: Client 3 Evaluating Data: 0.961
+2021-12-17 12:42:44,772: Finished Training
+2021-12-17 12:42:44,773: Calculated Pseudo Gradient
+2021-12-17 12:42:45,470: Send Client Local Pseudo-Gradient
+2021-12-17 12:42:45,471: Send Client Number of Training Instances
+2021-12-17 12:42:45,481: Loaded Global Model Weights
+2021-12-17 12:42:45,690: Client 3 Evaluating Data: 0.962
+2021-12-17 12:42:51,255: Finished Training
+2021-12-17 12:42:51,256: Calculated Pseudo Gradient
+2021-12-17 12:42:51,974: Send Client Local Pseudo-Gradient
+2021-12-17 12:42:51,975: Send Client Number of Training Instances
+2021-12-17 12:42:51,982: Loaded Global Model Weights
+2021-12-17 12:42:52,225: Client 3 Evaluating Data: 0.961
+2021-12-17 12:42:58,022: Finished Training
+2021-12-17 12:42:58,023: Calculated Pseudo Gradient
+2021-12-17 12:42:58,662: Send Client Local Pseudo-Gradient
+2021-12-17 12:42:58,663: Send Client Number of Training Instances
+2021-12-17 12:42:58,676: Loaded Global Model Weights
+2021-12-17 12:42:58,915: Client 3 Evaluating Data: 0.961
+2021-12-17 12:43:05,102: Finished Training
+2021-12-17 12:43:05,103: Calculated Pseudo Gradient
+2021-12-17 12:43:05,852: Send Client Local Pseudo-Gradient
+2021-12-17 12:43:05,853: Send Client Number of Training Instances
+2021-12-17 12:43:05,866: Loaded Global Model Weights
+2021-12-17 12:43:06,119: Client 3 Evaluating Data: 0.96
+2021-12-17 12:43:12,141: Finished Training
+2021-12-17 12:43:12,142: Calculated Pseudo Gradient
+2021-12-17 12:43:13,067: Send Client Local Pseudo-Gradient
+2021-12-17 12:43:13,068: Send Client Number of Training Instances
+2021-12-17 12:43:13,076: Loaded Global Model Weights
+2021-12-17 12:43:13,362: Client 3 Evaluating Data: 0.959
+2021-12-17 12:43:19,778: Finished Training
+2021-12-17 12:43:19,779: Calculated Pseudo Gradient
+2021-12-17 12:43:20,529: Send Client Local Pseudo-Gradient
+2021-12-17 12:43:20,530: Send Client Number of Training Instances
+2021-12-17 12:43:20,541: Loaded Global Model Weights
+2021-12-17 12:43:20,782: Client 3 Evaluating Data: 0.959
+2021-12-17 12:43:27,092: Finished Training
+2021-12-17 12:43:27,093: Calculated Pseudo Gradient
+2021-12-17 12:43:27,864: Send Client Local Pseudo-Gradient
+2021-12-17 12:43:27,865: Send Client Number of Training Instances
+2021-12-17 12:43:27,871: Loaded Global Model Weights
+2021-12-17 12:43:28,101: Client 3 Evaluating Data: 0.958
+2021-12-17 12:43:34,049: Finished Training
+2021-12-17 12:43:34,051: Calculated Pseudo Gradient
+2021-12-17 12:43:34,769: Send Client Local Pseudo-Gradient
+2021-12-17 12:43:34,770: Send Client Number of Training Instances
+2021-12-17 12:43:34,779: Loaded Global Model Weights
+2021-12-17 12:43:35,053: Client 3 Evaluating Data: 0.959
+2021-12-17 12:43:41,089: Finished Training
+2021-12-17 12:43:41,090: Calculated Pseudo Gradient
+2021-12-17 12:43:41,838: Send Client Local Pseudo-Gradient
+2021-12-17 12:43:41,839: Send Client Number of Training Instances
+2021-12-17 12:43:41,849: Loaded Global Model Weights
+2021-12-17 12:43:42,094: Client 3 Evaluating Data: 0.962
+2021-12-17 12:43:47,690: Finished Training
+2021-12-17 12:43:47,690: Calculated Pseudo Gradient
+2021-12-17 12:43:48,371: Send Client Local Pseudo-Gradient
+2021-12-17 12:43:48,373: Send Client Number of Training Instances
+2021-12-17 12:43:48,382: Loaded Global Model Weights
+2021-12-17 12:43:48,613: Client 3 Evaluating Data: 0.964
+2021-12-17 12:43:54,110: Finished Training
+2021-12-17 12:43:54,111: Calculated Pseudo Gradient
+2021-12-17 12:43:54,886: Send Client Local Pseudo-Gradient
+2021-12-17 12:43:54,887: Send Client Number of Training Instances
+2021-12-17 12:43:54,897: Loaded Global Model Weights
+2021-12-17 12:43:55,128: Client 3 Evaluating Data: 0.965
+2021-12-17 12:44:01,334: Finished Training
+2021-12-17 12:44:01,335: Calculated Pseudo Gradient
+2021-12-17 12:44:02,077: Send Client Local Pseudo-Gradient
+2021-12-17 12:44:02,078: Send Client Number of Training Instances
+2021-12-17 12:44:02,087: Loaded Global Model Weights
+2021-12-17 12:44:02,319: Client 3 Evaluating Data: 0.965

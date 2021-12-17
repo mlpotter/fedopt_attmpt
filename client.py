@@ -82,8 +82,14 @@ class client(object):
     def start_logger(self):
         self.logger = logging.getLogger(f"client{self.rank}")
         self.logger.setLevel(logging.INFO)
+
+        format = logging.Formatter("%(asctime)s: %(message)s")
+
         fh = logging.FileHandler(filename=f"logs/client{self.rank}.log",mode='w')
+        fh.setFormatter(format)
         fh.setLevel(logging.INFO)
+
+
         self.logger.addHandler(fh)
 
     def load_local_data(self,args):
