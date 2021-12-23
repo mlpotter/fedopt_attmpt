@@ -3,6 +3,7 @@ import torch.distributed.rpc as rpc
 import logging
 from client import client
 import torch
+import numpy as np
 
 class server(object):
     def __init__(self,
@@ -21,25 +22,28 @@ class server(object):
         self.start_logger()
         self.init_clients(args)
 
+        self.client_percent = args.client_percent
+        self.client_sample_idx = np.arange(world_size-1) # default to be with all incase we do not call sample clients
+
         self.logger.info("Initialize Server")
 
     def init_clients(self,args):
         self.logger.info(f"Initialize {self.world_size-1} Clients")
-        self.client_rrefs = [rpc.remote(to=f"client{rank}",
+        self.client_rrefs = np.array([rpc.remote(to=f"client{rank}",
                                         func=client,
                                         args=(rank,self.world_size,self.model,args))
-                             for rank in range(1,self.world_size)]
+                             for rank in range(1,self.world_size)])
 
     def train(self):
         self.logger.info("Initializing Training")
-        check_train = [client_rref.rpc_async(timeout=0).train() for client_rref in self.client_rrefs]
+        check_train = [client_rref.rpc_async(timeout=0).train() for client_rref in self.client_rrefs[self.client_sample_idx]]
         [fut.wait() for fut in check_train]
 
     def evaluate(self):
         self.logger.info("Initializing Evaluation")
         total = []
         num_corr = []
-        check_eval = [client_rref.rpc_async(timeout=0).evaluate() for client_rref in self.client_rrefs]
+        check_eval = [client_rref.rpc_async(timeout=0).evaluate() for client_rref in self.client_rrefs[self.client_sample_idx]]
         for check in check_eval:
             corr, tot = check.wait()
             total.append(tot)
@@ -49,11 +53,11 @@ class server(object):
 
     def get_client_pseudo_grads(self):
         self.logger.info("Get Clients Pseudo Gradients")
-        return [client_rref.rpc_async(timeout=0).send_pseudo_grad() for client_rref in self.client_rrefs]
+        return [client_rref.rpc_async(timeout=0).send_pseudo_grad() for client_rref in self.client_rrefs[self.client_sample_idx]]
 
     def get_client_sample_nums(self):
         self.logger.info("Get Clients Sample Numbers")
-        return [client_rref.rpc_async(timeout=0).send_num_train() for client_rref in self.client_rrefs]
+        return [client_rref.rpc_async(timeout=0).send_num_train() for client_rref in self.client_rrefs[self.client_sample_idx]]
 
     def aggregate(self):
         pseudo_grads = self.get_client_pseudo_grads()
@@ -76,10 +80,14 @@ class server(object):
 
 
     def send_global_weights(self):
-        self.logger.info(f"Send Global Weights to {self.world_size-1} Clients")
+        self.logger.info(f"Send Global Weights to {len(self.client_sample_idx)} Clients: " + ("{} "*len(self.client_sample_idx)).format(*self.client_sample_idx.tolist()))
         global_weights = self.model.state_dict()
-        check_loaded = [client_rref.rpc_async(timeout=0).get_global_weights(global_weights) for client_rref in self.client_rrefs]
+        check_loaded = [client_rref.rpc_async(timeout=0).get_global_weights(global_weights) for client_rref in self.client_rrefs[self.client_sample_idx]]
         [check.wait() for check in check_loaded]
+
+    def sample_clients(self):
+        n_sampled = max(int(self.client_percent*(self.world_size-1)),1)
+        self.client_sample_idx = np.random.choice(self.world_size-1,n_sampled,replace=False)
 
     def start_logger(self):
         self.logger = logging.getLogger(f"client{self.rank}")
