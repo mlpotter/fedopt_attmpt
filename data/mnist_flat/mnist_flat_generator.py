@@ -20,7 +20,7 @@ def load_mnist_flat(args):
                                                                                                                  test_partition=0.2)
     for key in train_data_local_dict.keys():
         torch.save(train_data_local_dict[key], os.path.join(args.datapath,f"data_worker{key+1}_train.pt"))
-        print(dict(Counter(train_data_local_dict[key].dataset[:][1].numpy().tolist())))
+        print(dict(sorted(dict(Counter(train_data_local_dict[key].dataset[:][1].numpy().tolist())).items())))
         torch.save(test_data_local_dict[key], os.path.join(args.datapath,f"data_worker{key+1}_test.pt"))
 
 if __name__ == '__main__':

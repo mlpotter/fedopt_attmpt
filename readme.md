@@ -15,7 +15,8 @@
 Run `python fedopt.py --epochs=2 --iterations=25 --world_size=5 --global_lr=0.01 --datapath=data/mnist_flat` in terminal to simulate FedAVG with 4 clients and 1 server for the mnist flattened dataset (or may try Iris).
 
 ## arguments for script
-```optional arguments:
+```
+optional arguments:
   -h, --help            show this help message and exit
   --world_size WORLD_SIZE
                         The world size which is equal to 1 server + (world size - 1) clients
@@ -30,6 +31,8 @@ Run `python fedopt.py --epochs=2 --iterations=25 --world_size=5 --global_lr=0.01
   --local_lr LOCAL_LR   Learning rate of local client (SGD)
   --global_lr GLOBAL_LR
                         Learning rate for global server (Adam)
+  --client_percent CLIENT_PERCENT
+                        Number of clients to sample for training and update
 ```
 
 Will add more notes when ironed out , and understand `torch.distributed.rpc` better.

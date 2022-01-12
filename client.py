@@ -19,6 +19,7 @@ class client(object):
         self.model = model
         self.optimizer = optim.SGD(model.parameters(),
                                    lr=args.local_lr)
+
         self.criterion = nn.CrossEntropyLoss()
 
         self.epochs = args.epochs
